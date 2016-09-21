@@ -1,0 +1,28 @@
+// Variables
+//––––––––––––––––––––––––––––––––––––––––––––––––––
+
+// Global Width Variables
+$gw-larger-than-mobile    : 320 !default;
+$gw-larger-than-phablet   : 550 !default;
+$gw-larger-than-tablet    : 750 !default;
+$gw-larger-than-desktop   : 1000 !default;
+$gw-larger-than-desktophd : 1200 !default;
+
+$gw-container-height: 480px;
+
+// Breakpoints
+$bp-larger-than-mobile    : "min-width: "+$gw-larger-than-mobile+"px" !default;
+$bp-larger-than-phablet   : "min-width: "+$gw-larger-than-phablet+"px" !default;
+$bp-larger-than-tablet    : "min-width: "+$gw-larger-than-tablet+"px" !default;
+$bp-larger-than-desktop   : "min-width: "+$gw-larger-than-desktop+"px" !default;
+$bp-larger-than-desktophd : "min-width: "+$gw-larger-than-desktophd+"px" !default;
+
+//Grid Variables
+$container-width: $gw-larger-than-desktop !default;
+$container-width-larger-than-mobile: 85% !default;
+$container-width-larger-than-phablet: 80% !default;
+$total-columns: 12 !default;
+$column-width: 100 / $total-columns !default;
+$column-margin: 0% !default; // space between columns... NEVER! 
+$container-height-full: $gw-container-height;
+$container-height-half: $gw-container-height / 2 !global;

@@ -1,0 +1,7 @@
+@function grid-column-width($number) {
+    @return $column-width * $number - ($column-margin*($total-columns - $number)/$total-columns);
+}
+
+@function grid-column-height($number) {
+  @return $column-width * $number - (0*($total-columns - $number)/$total-columns)+vw;
+}
