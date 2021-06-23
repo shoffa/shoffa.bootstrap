@@ -64,3 +64,38 @@ C:\dev\ShoffaBootstrap\shoffa.bootstrap.web\bin\Microsoft.CodeDom.Providers.DotN
 C:\dev\ShoffaBootstrap\shoffa.bootstrap.web\obj\Debug\shoffa.bootstrap.web.csprojResolveAssemblyReference.cache
 C:\dev\ShoffaBootstrap\shoffa.bootstrap.web\obj\Debug\shoffa.bootstrap.web.dll
 C:\dev\ShoffaBootstrap\shoffa.bootstrap.web\obj\Debug\shoffa.bootstrap.web.pdb
+C:\Users\Shoffaloffa The PC\source\repos\shoffa.bootstrap\shoffa.bootstrap.web\bin\ApplicationInsights.config
+C:\Users\Shoffaloffa The PC\source\repos\shoffa.bootstrap\shoffa.bootstrap.web\bin\roslyn\csc.exe
+C:\Users\Shoffaloffa The PC\source\repos\shoffa.bootstrap\shoffa.bootstrap.web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Shoffaloffa The PC\source\repos\shoffa.bootstrap\shoffa.bootstrap.web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Shoffaloffa The PC\source\repos\shoffa.bootstrap\shoffa.bootstrap.web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Shoffaloffa The PC\source\repos\shoffa.bootstrap\shoffa.bootstrap.web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Shoffaloffa The PC\source\repos\shoffa.bootstrap\shoffa.bootstrap.web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Shoffaloffa The PC\source\repos\shoffa.bootstrap\shoffa.bootstrap.web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Shoffaloffa The PC\source\repos\shoffa.bootstrap\shoffa.bootstrap.web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Shoffaloffa The PC\source\repos\shoffa.bootstrap\shoffa.bootstrap.web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Shoffaloffa The PC\source\repos\shoffa.bootstrap\shoffa.bootstrap.web\bin\roslyn\vbc.exe
+C:\Users\Shoffaloffa The PC\source\repos\shoffa.bootstrap\shoffa.bootstrap.web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Shoffaloffa The PC\source\repos\shoffa.bootstrap\shoffa.bootstrap.web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Shoffaloffa The PC\source\repos\shoffa.bootstrap\shoffa.bootstrap.web\bin\shoffa.bootstrap.web.dll.config
+C:\Users\Shoffaloffa The PC\source\repos\shoffa.bootstrap\shoffa.bootstrap.web\bin\shoffa.bootstrap.web.dll
+C:\Users\Shoffaloffa The PC\source\repos\shoffa.bootstrap\shoffa.bootstrap.web\bin\shoffa.bootstrap.web.pdb
+C:\Users\Shoffaloffa The PC\source\repos\shoffa.bootstrap\shoffa.bootstrap.web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Shoffaloffa The PC\source\repos\shoffa.bootstrap\shoffa.bootstrap.web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Shoffaloffa The PC\source\repos\shoffa.bootstrap\shoffa.bootstrap.web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Shoffaloffa The PC\source\repos\shoffa.bootstrap\shoffa.bootstrap.web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Shoffaloffa The PC\source\repos\shoffa.bootstrap\shoffa.bootstrap.web\bin\Microsoft.AI.Web.dll
+C:\Users\Shoffaloffa The PC\source\repos\shoffa.bootstrap\shoffa.bootstrap.web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Shoffaloffa The PC\source\repos\shoffa.bootstrap\shoffa.bootstrap.web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Shoffaloffa The PC\source\repos\shoffa.bootstrap\shoffa.bootstrap.web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Shoffaloffa The PC\source\repos\shoffa.bootstrap\shoffa.bootstrap.web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Shoffaloffa The PC\source\repos\shoffa.bootstrap\shoffa.bootstrap.web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Shoffaloffa The PC\source\repos\shoffa.bootstrap\shoffa.bootstrap.web\bin\Microsoft.AI.Web.xml
+C:\Users\Shoffaloffa The PC\source\repos\shoffa.bootstrap\shoffa.bootstrap.web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Shoffaloffa The PC\source\repos\shoffa.bootstrap\shoffa.bootstrap.web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Shoffaloffa The PC\source\repos\shoffa.bootstrap\shoffa.bootstrap.web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Shoffaloffa The PC\source\repos\shoffa.bootstrap\shoffa.bootstrap.web\obj\Debug\shoffa.bootstrap.web.csprojAssemblyReference.cache
+C:\Users\Shoffaloffa The PC\source\repos\shoffa.bootstrap\shoffa.bootstrap.web\obj\Debug\shoffa.bootstrap.web.csproj.CoreCompileInputs.cache
+C:\Users\Shoffaloffa The PC\source\repos\shoffa.bootstrap\shoffa.bootstrap.web\obj\Debug\shoffa.bootstrap.web.csproj.CopyComplete
+C:\Users\Shoffaloffa The PC\source\repos\shoffa.bootstrap\shoffa.bootstrap.web\obj\Debug\shoffa.bootstrap.web.dll
+C:\Users\Shoffaloffa The PC\source\repos\shoffa.bootstrap\shoffa.bootstrap.web\obj\Debug\shoffa.bootstrap.web.pdb
