@@ -21,7 +21,7 @@
 .row {
   height: 100%; }
 
-.column, .container {
+.box, .container {
   padding: 0;
   margin: 0;
   width: 100%;
@@ -37,28 +37,38 @@
   float: left;
   box-sizing: border-box; }
 
+.box {
+  float: left;
+  box-sizing: border-box; }
+
 .static-container-height, .container-liquid .row .one-whole.column {
   height: 480px; }
 
 .static-container-half-height {
   height: 240px; }
 
-.container-liquid .row .one-half.column {
+.container-liquid .row .one-half.box {
   height: 50vw; }
 
-.container-liquid .row .one-third.column {
+.container-liquid .row .one-third.box {
   height: 33.33333vw; }
 
-.container-liquid .row .two-thirds.column {
+.container-liquid .row .two-thirds.box {
   height: 66.66667vw; }
 
-.container-liquid .row .one-fourth.column {
+.container-liquid .row .one-fourth.box {
   height: 25vw; }
 
-.container-liquid .row .one-sixth.column {
+.container-liquid .row .three-fourths.box {
+  height: 75vw; }
+
+.container-liquid .row .one-sixth.box {
   height: 16.66667vw; }
 
-.container-liquid .row .one-eighth.column {
+.container-liquid .row .five-sixth.box {
+  height: 83.33333vw; }
+
+.container-liquid .row .one-eighth.box {
   height: 12.5vw; }
 
 @media (min-width: 550px) {
@@ -84,6 +94,8 @@
     width: 75%; }
   .one-sixth.column {
     width: 16.66667%; }
+  .five-sixth.column {
+    width: 83.33333%; }
   .one-eighth.column {
     width: 12.5%; } }
 
@@ -113,4 +125,3 @@ ul,
 ol,
 form {
   margin-bottom: 2.5rem; }
-

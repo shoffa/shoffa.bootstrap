@@ -3,10 +3,10 @@
 *   Based on Skeleton V2.0.4
 */
 
-@import "sass/base/variables";
-@import "sass/base/functions";
-@import "sass/base/utils";
+@import "sass/base/_variables.scss";
+@import "sass/base/_functions.scss";
+@import "sass/base/_utils.scss";
 
-@import "sass/modules/grid";
-@import "sass/modules/spacing";
-@import "sass/modules/media-queries";
+@import "sass/modules/_grid.scss";
+@import "sass/modules/_spacing.scss";
+@import "sass/modules/_media-queries.scss";
