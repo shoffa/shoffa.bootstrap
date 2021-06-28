@@ -1,7 +1,7 @@
 .row {
     height: 100%;
 }
-.column, .container {
+.box, .container {
     padding: 0;
     margin: 0;
     width: 100%;
@@ -9,48 +9,61 @@
 }
 
 .container {
-    position: relative;
-    max-width: $container-width;
-    margin: 0 auto;
-    box-sizing: border-box;
+  position: relative;
+  max-width: $container-width;
+  margin: 0 auto;
+  box-sizing: border-box;
 }
 
 .column {
-    float: left;
-    box-sizing: border-box;
+  float: left;
+  box-sizing: border-box;
+}
+
+.box {
+  float: left;
+  box-sizing: border-box;
 }
 
 .static-container-height                        { height: $container-height-full;              }
 .static-container-half-height                   { height: $container-height-half;              }
 
 .container-liquid {
-    .row {
-        .one-whole.column          { @extend .static-container-height;                  }
-        .one-half.column           { height: grid-column-height(6);                     }
-        .one-third.column          { height: grid-column-height(4);                     }
-        .two-thirds.column         { height: grid-column-height(8);                     }
-        .one-fourth.column         { height: grid-column-height(3);                     }
-        .one-sixth.column          { height: grid-column-height(2);                     }
-        .one-eighth.column         { height: grid-column-height(1.5);                   }
+  .row {
+    .one-whole.column {
+      @extend .static-container-height;
     }
+
+    .one-half.box                            { height: grid-column-height(6);                }
+    .one-third.box                           { height: grid-column-height(4);                }
+    .two-thirds.box                          { height: grid-column-height(8);                }
+    .one-fourth.box                          { height: grid-column-height(3);                }
+    .three-fourths.box                       { height: grid-column-height(9);                }
+
+    .one-sixth.box                              { height: grid-column-height(2);                }
+    .five-sixth.box                             { height: grid-column-height(10);               }
+
+    .one-eighth.box                          { height: grid-column-height(1.5);              }
+  }
 }
 
 @media (#{$bp-larger-than-phablet}) {
-    .container                                  { width: $container-width-larger-than-mobile;   }
+  .container                                  { width: $container-width-larger-than-mobile;   }
 }
 
 @media (#{$bp-larger-than-tablet}) {
-    .container                                  { width: $container-width;                      }
-    .column:first-child                         { margin-left: 0;                               }
+  .container                                  { width: $container-width;                      }
+  .column:first-child                         { margin-left: 0;                               }
 
-    .one-whole.column                           { width: 100%;                                  }
-    .one-half.column                            { width: grid-column-width(6);                  }
-    .one-third.column                           { width: grid-column-width(4);                  }
-    .two-thirds.column                          { width: grid-column-width(8);                  }
-    .one-fourth.column                          { width: grid-column-width(3);                  }
-    .three-fourths.column                       { width: grid-column-width(9);                  }
-    .one-sixth.column                           { width: grid-column-width(2);                  }
-    .one-eighth.column                          { width: grid-column-width(1.5);                }
+  .one-whole.column                           { width: 100%;                                  }
+  .one-half.column                            { width: grid-column-width(6);                  }
+  .one-third.column                           { width: grid-column-width(4);                  }
+  .two-thirds.column                          { width: grid-column-width(8);                  }
+  .one-fourth.column                          { width: grid-column-width(3);                  }
+  .three-fourths.column                       { width: grid-column-width(9);                  }
+  .one-sixth.column                           { width: grid-column-width(2);                  }
+  .five-sixth.column                          { width: grid-column-width(10);                 }
+  .one-eighth.column                          { width: grid-column-width(1.5);                }
 }
 
 .container:after,
