@@ -33,19 +33,12 @@
   margin: 0 auto;
   box-sizing: border-box; }
 
-.column {
+.column, .box {
   float: left;
   box-sizing: border-box; }
 
-.box {
-  float: left;
-  box-sizing: border-box; }
-
-.static-container-height, .container-liquid .row .one-whole.column {
-  height: 480px; }
-
-.static-container-half-height {
-  height: 240px; }
+.container-liquid .row .one-whole.box {
+  height: 100vw; }
 
 .container-liquid .row .one-half.box {
   height: 50vw; }
